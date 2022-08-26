@@ -2,9 +2,9 @@
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
-// Your JavaScript code goes here!
-
-
+// Your JavaScript code goes h
+const liker = document.getElementsByClassName(like-glyph)
+liker.addEventListener('click', mimicServerCall);
 
 
 //------------------------------------------------------------------------------
